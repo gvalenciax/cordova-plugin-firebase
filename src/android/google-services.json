@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "42111326767",
+    "firebase_url": "https://tigoforum2017.firebaseio.com",
+    "project_id": "tigoforum2017",
+    "storage_bucket": "tigoforum2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42111326767:android:415746a1aac91256",
+        "android_client_info": {
+          "package_name": "com.gomonke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42111326767-9m1dki5ov4uvi6cpomtfroa8shjo7uss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6nQ-PCoRDbT9YWSq8IGepve5PVmnmFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
